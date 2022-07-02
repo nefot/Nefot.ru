@@ -134,11 +134,17 @@
 
 }
 
-@media (max-width: 900px) {
-  .rwow {
-      display: block;
+@media (max-width: 1100px) {
+  .but {
+    ma
+      
   }
 
+}
+@media (max-width: 1000px){
+  .body {
+    width:auto;
+  }
 }
 
 .container1 {
